@@ -1,0 +1,33 @@
+{
+  "name": "Chords",
+  "description": "",
+  "version": "1.0.0",
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "bootstrap": "3.1.1",
+    "bootstrap-datepicker": "~1.3.1",
+    "CoolClock": "~2.1.4",
+    "bootstrap-combobox": "~1.1.6",
+    "angular": "1.3.14",
+    "angular-bootstrap": "~0.12.1",
+    "angular-ui-router": "~0.2.13"
+  },
+  "authors": [
+    "Oliver Jaun"
+  ],
+  "license": "GPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "~3.3.2"
+  },
+  "resolutions": {
+    "jquery": "~2.1.3",
+    "bootstrap": "~3.3.2"
+  }
+}

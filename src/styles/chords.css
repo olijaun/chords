@@ -1,0 +1,11 @@
+body {
+    padding-top: 60px;
+}
+
+/* fix for angular ui bootstrap */
+.nav, .pagination, .carousel, .panel-title a { cursor: pointer; }
+
+input.ng-invalid {
+    border-color: red;
+    border-width: 2px;
+}
